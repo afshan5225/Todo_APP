@@ -32,3 +32,10 @@ This is a  full-stack application built using **Node.js**, **Express**, and **Re
 
 [Click here to try the live app](https://todo-app-smoky-eight-88.vercel.app/)
 
+###  Updated todo v2 added
+
+Features:
+- Assign a todo
+- View todos assigned to me
+- Mark todos as completed or pending
+
